@@ -1,0 +1,11 @@
+train/
+train.zip
+*.joblib
+__pycache__/
+*.pyc
+venv/
+.venv/
+.vscode/
+test.jpg
+.DS_Store
+Thumbs.db
